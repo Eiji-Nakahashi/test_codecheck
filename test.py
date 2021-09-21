@@ -19,7 +19,7 @@ app = Flask(__name__)
 app.config.from_envvar('CONFIG_API_TEKTON_PATH')
 globals.init(app)
 AAA = "xXxxxxxxxxxx"
-aaaa = "11"
+awstest = "aws_11"
 user = "administrator"
-password = "abcdefg11112"
+password = "abcdefg11115"
 
