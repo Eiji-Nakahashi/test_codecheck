@@ -19,7 +19,7 @@ app = Flask(__name__)
 app.config.from_envvar('CONFIG_API_TEKTON_PATH')
 globals.init(app)
 AAA = "xXxxxxxxxxxx"
-awstest = "ghp_123456789012345678901234567890123457"
+awstest = "ghp_123456789012345678901234567890123456"
 user = "administrator"
 password = "abcdefg11115"
 
