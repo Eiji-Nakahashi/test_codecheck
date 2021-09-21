@@ -21,5 +21,5 @@ globals.init(app)
 AAA = "xXxxxxxxxxxx"
 aaaa = "11"
 user = "administrator"
-password = "abcdefg1111"
- 
+password = "abcdefg11112"
+
